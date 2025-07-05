@@ -50,14 +50,13 @@ The following preprocessing steps are performed:
 
 ## 📁 File Structure
 
-```
+
 
 Diabetes\_Detection/
 ├── Diabetes\_Detection.ipynb     
 ├── diabetes\_dataset.csv        
 └── README.md                   
 
-```
 
 ---
 
