@@ -53,11 +53,11 @@ The following preprocessing steps are performed:
 ```
 
 Diabetes\_Detection/
-├── Diabetes\_Detection.ipynb     # Main analysis notebook
-├── diabetes\_dataset.csv         # Dataset used for the project
-└── README.md                    # Project documentation
+├── Diabetes\_Detection.ipynb     
+├── diabetes\_dataset.csv        
+└── README.md                   
 
-````
+```
 
 ---
 
